@@ -1,2 +1,2 @@
-# resources_inorog
+# Resources Inorog
 Resources shared by Inorog Team
